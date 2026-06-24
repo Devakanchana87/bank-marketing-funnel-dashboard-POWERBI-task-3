@@ -37,7 +37,7 @@ deposit — covering funnel drop-offs, channel performance, and segment insights
 - **Page 2:** Segment Analysis & Recommendations
 
 ## Dashboard PDF
-- [Marketing_Funnel_Dashboard.pdf](your-pdf-link-here)
+- [Marketing_Funnel_Dashboard.pdf](https://github.com/Devakanchana87/bank-marketing-funnel-dashboard-POWERBI-task-3/blob/619972c9c5627c61892f404fe39bed5a39a256f5/bank-marketing-dashboard-POWERBI-pdf.pdf)
 
 ## Dashboard Link
 - [Power BI File](your-pbix-link-here)
