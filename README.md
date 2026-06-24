@@ -10,15 +10,7 @@ deposit — covering funnel drop-offs, channel performance, and segment insights
 ## Tools Used
 - Power BI Desktop
 - Power Query
-- Python (pandas) — data cleaning & feature engineering
-
-## Dataset
-- **Name:** Bank Marketing Dataset (UCI Machine Learning Repository)
-- **File used:** bank-full.csv → cleaned to bank_marketing_funnel.csv
-- **Size:** 45,211 clients | 28 features (after transformation)
-- **Target variable:** y — Has the client subscribed? (Yes/No)
-- **Period:** May 2008 – November 2010
-
+  
 ## Key Insights
 1. Overall conversion rate is 11.7%, with a major drop-off between
    Responsive (36K) and Converted (5K) clients
